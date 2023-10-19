@@ -471,9 +471,7 @@ body {
 
 .image-overlay {
   display: none;
-  position: absolute;
-  top: 0;
-  left: 0;
+  position: relative;
   width: 280px;
   height: 206px;
   background: #e9edef;
